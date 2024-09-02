@@ -60,7 +60,3 @@ To run this application, you need to have Node.js and npm installed on your mach
 - `qrcode`: A QR code generator library in JavaScript.
 - `ejs`: Embedded JavaScript templating for rendering HTML pages.
 - `nodemon`: A utility that monitors for any changes in your source and automatically restarts the server.
-
-## License
-
-This project is licensed under the MIT License. 
