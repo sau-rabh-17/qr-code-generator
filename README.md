@@ -63,4 +63,4 @@ To run this application, you need to have Node.js and npm installed on your mach
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. 
