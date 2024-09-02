@@ -17,7 +17,7 @@ To run this application, you need to have Node.js and npm installed on your mach
 ## Installation
 
 1. Clone the repository to your local machine:
-    git clone https://github.com/yourusername/qr-code-generator.git
+    git clone https://github.com/sau-rabh-17/qr-code-generator.git
    
 3. Navigate to the project directory:
     cd qr-code-generator
